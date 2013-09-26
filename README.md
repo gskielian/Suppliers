@@ -3,12 +3,14 @@ Suppliers
 
 
 
+## Hardware
+
 | Hardware | link | description |
 | :---    | :---: | ----------: |
 | Open-Builds-Parts-Store | [link](http://openbuildspartstore.com/) | like inventables |
 | Inventables | [link](https://www.inventables.com/) | extreuded alumninum kit-like way of getting parts |
 
-
+## Electronic Supplies
 
 | Electronic Supplies | link | description |
 | :---    | :---: | ----------: |
